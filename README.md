@@ -50,7 +50,12 @@ npm run build
 # 4. Preview production build locally
 npm run preview
 ```
-
+How To Run This project :-
+1.First run npm install
+2.npm run dev
+3.And go to the localhost
+Project link:-Directly see the project online
+https://msbte-portal.vercel.app/
 ## Deploy
 
 After `npm run build`, upload the contents of the `dist/` folder to any static host:
